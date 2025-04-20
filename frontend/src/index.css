@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+
+.animate-text {
+    @apply overflow-hidden inline-block;
+  }
