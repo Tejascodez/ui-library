@@ -89,7 +89,7 @@ export default function Landingpage() {
                 transition={{ duration: 1.2, ease: "easeOut", delay: 0.4 }}
               >
                 <a
-                  href="https://github.com/your-repo"
+                  href="https://github.com/Tejascodez/ui-library.git"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="group px-6 py-3 rounded-xl bg-gradient-to-r from-violet-600 to-violet-700 hover:from-violet-500 hover:to-violet-600 text-white font-semibold transition-all duration-200 shadow-lg hover:shadow-violet-500/25 flex items-center justify-center gap-2"
